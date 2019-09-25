@@ -7,13 +7,13 @@
 * 240g Soja- oder Cashew- oder Hafersahne
 * 210g Zucker
 * (3 EL Ei-Ersatz – z.B. "No Egg" / "Veg Egg", nicht unbedingt nötig; kann man einfach weglassen)
-
+---
 * 300g Mehl
 * 6 TL Backpulver
 * Mark aus 1/2 Vanilleschote
 * 1/2 TL Salz
 * 3 TL abgeriebene Zitronenschale
-
+---
 * 120g Margarine
 * 210g Zucker
 * Etwas Zimt (nach Geschmack, z.B. 1/2 TL)
@@ -44,13 +44,13 @@ Fertig.
 * 240g soy or cashew or oat cream
 * 210g sugar
 * (3 tbsp. egg replacement – e.g. "No Egg" / "Veg Egg". Not necessary. Leave out if not available.)
-
+---
 * 300g flour
 * 6 tsp. baking powder
 * pulp from 1/2 a vanilla pod
 * 1/2 tsp. salt
 * 3 tsp. grated lemon peel
-
+---
 * 120g margarine
 * 210g sugar
 * Some cinnamon (to taste, e.g. 1/2 tsp.)
