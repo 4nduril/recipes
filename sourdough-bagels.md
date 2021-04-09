@@ -28,7 +28,7 @@ Add salt and knead until it's mixed in well. Form a ball and leave in a closed b
 
 ## 11.40: Forming the Bagels
 
-Look at Seamus' thread on how to prepare the working surface with oil and form the Bagels. Preheat the oven to 250°C. Leave Bagels for roughly an hour.
+Look at Seamus' thread on how to prepare the working surface with oil and form the Bagels. __NOTE:__ Preserve the last bit of dough in a sealed box in the fridge. Add it to the dough next time.  Preheat the oven to 250°C. Leave Bagels for roughly an hour.
 
 ## 1 p.m.: Boiling and baking
 
