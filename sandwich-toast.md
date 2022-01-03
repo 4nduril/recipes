@@ -4,24 +4,24 @@ Adapted from https://www.kingarthurbaking.com/recipes/sourdough-sandwich-bread-r
 
 ## Ingredients
 ### Levain
-18g starter
-65g whole wheat flour
-65g water
+- 18g starter
+- 65g whole wheat flour
+- 65g water
 
 ### Yeast pre-ferment
-100g Wheat bread flour (550)
-1g fresh yeast
-90g water
+- 100g Wheat bread flour (550)
+- 1g fresh yeast
+- 90g water
 
 ### Main dough
-345g Bread flour (315 was too sticky)
-21g (Non-dairy) milk
-25g Sugar
-7.5g Salt
-28g soft margarine / Non-dairy butter
-170g water
-Levain
-Pre-ferment
+- 345g Bread flour (315 was too sticky)
+- 21g (Non-dairy) milk
+- 25g Sugar
+- 7.5g Salt
+- 28g soft margarine / Non-dairy butter
+- 170g water
+- Levain
+- Pre-ferment
 
 ## Instructions
 Start 17:00 on the day before baking. Make levain and yeast-preferment. Leave levain at room temperature. Give the pre-ferment 1 hour at room temeperature to start, then put in the fridge overnight.
