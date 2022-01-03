@@ -10,7 +10,7 @@ Adapted from https://www.kingarthurbaking.com/recipes/sourdough-sandwich-bread-r
 
 ### Yeast pre-ferment
 100g Wheat bread flour (550)
-1g yeast
+1g fresh yeast
 90g water
 
 ### Main dough
