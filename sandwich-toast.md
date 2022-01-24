@@ -14,12 +14,12 @@ Adapted from https://www.kingarthurbaking.com/recipes/sourdough-sandwich-bread-r
 - 90g water
 
 ### Main dough
-- 345g Bread flour (315 was too sticky)
+- 245g Bread flour (215 was too sticky)
 - 21g (Non-dairy) milk
 - 25g Sugar
 - 7.5g Salt
 - 28g soft margarine / Non-dairy butter
-- 170g water
+- 80g water
 - Levain
 - Pre-ferment
 
